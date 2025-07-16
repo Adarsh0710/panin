@@ -954,7 +954,7 @@ const Footer = () => (
               <Globe size={20} />
             </a>
             <a
-              href="mailto:panindiahyd@gmail.com"
+              href="mailto:mail@panindialogistics.in"
               className="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition-colors cursor-pointer"
             >
               <Mail size={20} />
